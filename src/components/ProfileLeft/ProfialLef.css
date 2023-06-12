@@ -1,0 +1,11 @@
+.ProfileSide{
+    display:flex
+}
+
+@media  screen and (max-width: 600px){
+    .ProfileSide{
+      display:none;
+      
+  
+    } 
+  }
